@@ -1,0 +1,32 @@
+Project Details:
+1. Pick a dataset
+2. Pose atleast three questions related to business or real world applications of how the data could be used
+3. Create a jupyter notebook
+	1. Prepare the data: Gather, assess & clean (Wrangling step)
+	2. Analyze, model & visualize
+4. Communicate business findings
+	1. Create github repo to share code for data wrangling techniques with a TECHNICAL audience in mind
+	2. Create a blog post to share your questions & insights with a NON-TECHNICAL audience
+
+Rubrics:
+CODE FUNCTIONALITY
+1. Code is readable (PEP-8 & Doc Strings)
+2. Code is functional
+3. Well documented code that uses functions & classes as necessary (DOC STRINGS REQUIRED HERE)
+
+DATA
+1. Project follows CRISP-DM process while analyzing the data
+2. Proper handling of categorical & missing values in the dataset
+
+ANALYZE
+1. Answer 3 - 5 business questions
+
+GITHUB
+1. README.md file that communicates all the libraries used, motivation for the project, files used with a small 
+   description of each file, a summary of results of analysis & necessary acknowledgements 
+
+BLOG POST
+1. Communicate findings with stake holders
+2. There should be an intriguing image & title
+3. Body of post broken down by appropriate spaces & images
+4. Each question has a clealy communicated solution
